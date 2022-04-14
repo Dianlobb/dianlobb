@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 , I'm Dianlobb
+
+<a>
+  <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFNDiXbLlK-PA/profile-displayphoto-shrink_200_200/0/1581022811093?e=1655337600&v=beta&t=LEAvVE3hYze5bU4FB3Iumk_a4Rnssqc6bd07U0Nbkgc" width="341" height="571" alt="ProfilePhoto">
+</a>
+
+## 📅 Hobbies
+- Solve programming problems at Codeforces, UVa, LeetCode
+- Watch anime and Tv shows
+- Read some books
+- I love to travel
 
 <!--
 **Dianlobb/dianlobb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
