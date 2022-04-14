@@ -13,10 +13,10 @@ A JavaScript developer from Colombia. I currently working as a front-end develop
 
 
 ## 📅 Hobbies
-- Solve programming problems at Codeforces, UVa, LeetCode
-- Watch anime and Tv shows
+- Solve programming problems
+- Watch anime and Tv series
 - Read some books
-- I love to travel
+- Travel
 
 ### Languages and Tools:
 <code><img height="24" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#"></code>
