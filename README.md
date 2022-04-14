@@ -7,7 +7,7 @@ A JavaScript developer from Colombia. I currently working as a front-end develop
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, VUe, <br />  SQL, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, Vue, <br />  SQL, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning React.
 
 
