@@ -3,17 +3,21 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diana-loboa-69612a117)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dianlobbTravel)
+[![Porfolio Badge](https://img.shields.io/badge/-Portfolio-61DAFB)](https://dianaloboa.netlify.app/)
 
-A JavaScript developer from Colombia. I currently working as a front-end developer at Teleperformance. I love building applications, learning new things & discussing ideas.
+A Back-End developer from Colombia. I love building applications, learning new things & discussing ideas.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, Vue, <br />  SQL, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning React.
+- 🛠 &nbsp; I’m currently working with PHP, Python, AWS, <br />  SQL, Javascript, etc.
+- 🚀 &nbsp; I’m currently learning ML.
 
-
+## What I Do:
+- 🛠   Skilled in Nodejs, Express, Vue, SQL, Javascript, and diving deep into React.
+- 🔧   Expertise in Django, Laravel, PHP, with a solid understanding of database management.
+- 🌐   Passionate about building scalable, concurrent, and secure software.
+- 📚   Committed to continuous learning and sharing knowledge in web development.
 ## 📅 Hobbies
-- Solve programming problems
 - Watch anime and Tv series
 - Read some books
 - Travel
@@ -32,14 +36,4 @@ A JavaScript developer from Colombia. I currently working as a front-end develop
 - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
 **Dianlobb/dianlobb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
